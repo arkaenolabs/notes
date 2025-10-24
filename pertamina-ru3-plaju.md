@@ -29,7 +29,7 @@ Tema besar:
 
 > **“Energizing Environment — Menyatukan Energi & Keanekaragaman untuk Masa Depan Berkelanjutan.”**
 
-### A. Tujuan Utama
+### Tujuan Utama
 
 1. **Akuntabilitas Publik:** membuka data program lingkungan, CSR, dan capaian ESG.
 2. **Transparansi:** publik dapat mengakses laporan, indikator, dan kegiatan aktual.
